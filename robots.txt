@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /index.html
+Host: bella-rose.ru
+Sitemap: https://bella-rose.ru/sitemap.xml
